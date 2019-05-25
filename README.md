@@ -1,2 +1,2 @@
-# personal_dictionary
+# Personal Dictionary
 English dictionary using python
